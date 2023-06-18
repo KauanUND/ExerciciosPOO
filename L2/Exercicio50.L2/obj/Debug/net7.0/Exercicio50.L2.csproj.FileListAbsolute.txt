@@ -1,0 +1,15 @@
+C:\Users\Kauan\OneDrive\Área de Trabalho\POO.Exercicio.L2\Exercicio50.L2\bin\Debug\net7.0\Exercicio50.L2.exe
+C:\Users\Kauan\OneDrive\Área de Trabalho\POO.Exercicio.L2\Exercicio50.L2\bin\Debug\net7.0\Exercicio50.L2.deps.json
+C:\Users\Kauan\OneDrive\Área de Trabalho\POO.Exercicio.L2\Exercicio50.L2\bin\Debug\net7.0\Exercicio50.L2.runtimeconfig.json
+C:\Users\Kauan\OneDrive\Área de Trabalho\POO.Exercicio.L2\Exercicio50.L2\bin\Debug\net7.0\Exercicio50.L2.dll
+C:\Users\Kauan\OneDrive\Área de Trabalho\POO.Exercicio.L2\Exercicio50.L2\bin\Debug\net7.0\Exercicio50.L2.pdb
+C:\Users\Kauan\OneDrive\Área de Trabalho\POO.Exercicio.L2\Exercicio50.L2\obj\Debug\net7.0\Exercicio50.L2.csproj.AssemblyReference.cache
+C:\Users\Kauan\OneDrive\Área de Trabalho\POO.Exercicio.L2\Exercicio50.L2\obj\Debug\net7.0\Exercicio50.L2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kauan\OneDrive\Área de Trabalho\POO.Exercicio.L2\Exercicio50.L2\obj\Debug\net7.0\Exercicio50.L2.AssemblyInfoInputs.cache
+C:\Users\Kauan\OneDrive\Área de Trabalho\POO.Exercicio.L2\Exercicio50.L2\obj\Debug\net7.0\Exercicio50.L2.AssemblyInfo.cs
+C:\Users\Kauan\OneDrive\Área de Trabalho\POO.Exercicio.L2\Exercicio50.L2\obj\Debug\net7.0\Exercicio50.L2.csproj.CoreCompileInputs.cache
+C:\Users\Kauan\OneDrive\Área de Trabalho\POO.Exercicio.L2\Exercicio50.L2\obj\Debug\net7.0\Exercicio50.L2.dll
+C:\Users\Kauan\OneDrive\Área de Trabalho\POO.Exercicio.L2\Exercicio50.L2\obj\Debug\net7.0\refint\Exercicio50.L2.dll
+C:\Users\Kauan\OneDrive\Área de Trabalho\POO.Exercicio.L2\Exercicio50.L2\obj\Debug\net7.0\Exercicio50.L2.pdb
+C:\Users\Kauan\OneDrive\Área de Trabalho\POO.Exercicio.L2\Exercicio50.L2\obj\Debug\net7.0\Exercicio50.L2.genruntimeconfig.cache
+C:\Users\Kauan\OneDrive\Área de Trabalho\POO.Exercicio.L2\Exercicio50.L2\obj\Debug\net7.0\ref\Exercicio50.L2.dll

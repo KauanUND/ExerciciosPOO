@@ -1,0 +1,15 @@
+C:\Users\Kauan\OneDrive\Área de Trabalho\POO.EXERCICIOS\Exercicio3.L1\bin\Debug\net7.0\Exercicio3.L1.exe
+C:\Users\Kauan\OneDrive\Área de Trabalho\POO.EXERCICIOS\Exercicio3.L1\bin\Debug\net7.0\Exercicio3.L1.deps.json
+C:\Users\Kauan\OneDrive\Área de Trabalho\POO.EXERCICIOS\Exercicio3.L1\bin\Debug\net7.0\Exercicio3.L1.runtimeconfig.json
+C:\Users\Kauan\OneDrive\Área de Trabalho\POO.EXERCICIOS\Exercicio3.L1\bin\Debug\net7.0\Exercicio3.L1.dll
+C:\Users\Kauan\OneDrive\Área de Trabalho\POO.EXERCICIOS\Exercicio3.L1\bin\Debug\net7.0\Exercicio3.L1.pdb
+C:\Users\Kauan\OneDrive\Área de Trabalho\POO.EXERCICIOS\Exercicio3.L1\obj\Debug\net7.0\Exercicio3.L1.csproj.AssemblyReference.cache
+C:\Users\Kauan\OneDrive\Área de Trabalho\POO.EXERCICIOS\Exercicio3.L1\obj\Debug\net7.0\Exercicio3.L1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kauan\OneDrive\Área de Trabalho\POO.EXERCICIOS\Exercicio3.L1\obj\Debug\net7.0\Exercicio3.L1.AssemblyInfoInputs.cache
+C:\Users\Kauan\OneDrive\Área de Trabalho\POO.EXERCICIOS\Exercicio3.L1\obj\Debug\net7.0\Exercicio3.L1.AssemblyInfo.cs
+C:\Users\Kauan\OneDrive\Área de Trabalho\POO.EXERCICIOS\Exercicio3.L1\obj\Debug\net7.0\Exercicio3.L1.csproj.CoreCompileInputs.cache
+C:\Users\Kauan\OneDrive\Área de Trabalho\POO.EXERCICIOS\Exercicio3.L1\obj\Debug\net7.0\Exercicio3.L1.dll
+C:\Users\Kauan\OneDrive\Área de Trabalho\POO.EXERCICIOS\Exercicio3.L1\obj\Debug\net7.0\refint\Exercicio3.L1.dll
+C:\Users\Kauan\OneDrive\Área de Trabalho\POO.EXERCICIOS\Exercicio3.L1\obj\Debug\net7.0\Exercicio3.L1.pdb
+C:\Users\Kauan\OneDrive\Área de Trabalho\POO.EXERCICIOS\Exercicio3.L1\obj\Debug\net7.0\Exercicio3.L1.genruntimeconfig.cache
+C:\Users\Kauan\OneDrive\Área de Trabalho\POO.EXERCICIOS\Exercicio3.L1\obj\Debug\net7.0\ref\Exercicio3.L1.dll
